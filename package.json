@@ -1,0 +1,12 @@
+{
+  "name": "diia",
+  "version": "1.0.0",
+  "description": "Diia language source code",
+  "main": "src/diia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
